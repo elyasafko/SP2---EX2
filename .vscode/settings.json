@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdexcept": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}
